@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Force Download Wordpress Video Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-06 21:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: moins52 <moins52@gmail.com>\n"
+"Language-Team: Force Download <moins52@yahoo.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; nplural:n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\Knar\\Dev\\force-download WP plugin\\force-download-wordpress-video-plugin\\force-download-wordpress-video-plugin\n"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1882
+msgid "www.force-download.com"
+msgstr "www.force-download.net"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1895
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1942
+msgid "Force Download Plugin Configuration"
+msgstr "Configuration du Plugin Force Download"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1902
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1905
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1975
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1978
+msgid "Download the video"
+msgstr "Télécharger la vidéo"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1938
+msgid "Configuration updated."
+msgstr "Configuration mise à jour"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1944
+msgid "How does this work?"
+msgstr "Comment ça marche ?"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1945
+msgid "This plugin allow you to display videos and allowed visitors to download them ! This plugin work with youtube, google video, myvideo.de, Brightcove, Aniboom, 123video.nl, MyspaceTV, Yahoo! Video, Veoh, Wandeo, Glumbert, Gametrailers, Gamevideos, LiveLeak, sevenload.de, clipfish.de, break.com, Metacafe, dailymotion.com, Vimeo, videotube, blip.tv, revver, IFILM, Tu.tv, grouper, Cellfish.com, Sumo.tv, Last.fm, Vsocial, teachertube, SlideShare, Jumpcut, MSN, GoalVideoz, Guba, wat.tv, Facebook, Flickr Video, Kewego, Smotri.Com...and many more."
+msgstr "Ce plugin vous permet d'afficher des vidéos sur votre blog wordpress et permet à vos visiteurs de les télécharger ! Ce plugin fonctionne avec youtube, google video, myvideo.de, Brightcove, Aniboom, 123video.nl, MyspaceTV, Yahoo! Video, Veoh, Wandeo, Glumbert, Gametrailers, Gamevideos, LiveLeak, sevenload.de, clipfish.de, break.com, Metacafe, dailymotion.com, Vimeo, videotube, blip.tv, revver, IFILM, Tu.tv, grouper, Cellfish.com, Sumo.tv, Last.fm, Vsocial, teachertube, SlideShare, Jumpcut, MSN, GoalVideoz, Guba, wat.tv, Facebook, Flickr Video, Kewego, Smotri.Com...et beaucoup d'autres."
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1946
+msgid "You may find more instructions on how to use this plugin on <a href=\"http://wwww.force-download.com?b=2\" target=\"_blank\">this page</a>."
+msgstr "Vous trouverez plus d'informations sur comment utiliser ce plugin sur <a href=\"http://wwww.force-download.net?b=2\" target=\"_blank\">cette page</a>."
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1950
+msgid "Link label (what visitors see):"
+msgstr "Libellé du lien (ce que voient vos visiteurs) :"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1953
+msgid "Link title (what Google see):"
+msgstr "Titre du lien (ce que voit Google) :"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1956
+msgid "Link target:"
+msgstr "Cible du lien (balise target) :"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1957
+msgid "_blank : Open the linked document in a new window"
+msgstr "_blank : Lance le téléchargement dans une nouvelle fenêtre"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1958
+msgid "_self : Open the linked document in the same frame as it was clicked (this is default)"
+msgstr "_self : Lance le téléchargement dans la même fenêtre (c'est la valeur par défaut)"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1959
+msgid "_parent : Open the linked document in the parent frameset"
+msgstr "_parent : Lance le téléchargement dans la frame parent"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1960
+msgid "_top : Open the linked document in the full body of the window"
+msgstr "_top : Lance le téléchargement dans la fenêtre courante en occupant tout l'espace de celle-ci."
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1961
+msgid "framename : Open the linked document in a named frame"
+msgstr "nomframe : Lance le téléchargement dans la frame nommée"
+
+#: D:\Knar\Dev\force-download
+#: WP
+#: plugin\force-download-wordpress-video-plugin\force-download-wordpress-video-plugin/videos.php:1964
+msgid "Save &raquo;"
+msgstr "Enregistrer &raquo;"
+
